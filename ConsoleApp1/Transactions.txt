@@ -1,0 +1,23 @@
+﻿Account Number: 1326535459 | Transaction Type: Withdrawal | Amount: 3 | Date/Time: 14/08/2023 8:11:33 pm
+Account Number: 1326535459 | Transaction Type: Deposit | Amount: 34 | Date/Time: 15/08/2023 11:57:54 am
+Account Number: 1384434411 | Transaction Type: Deposit | Amount: 37 | Date/Time: 15/08/2023 2:44:12 pm
+Account Number: 1625429381 | Transaction Type: Deposit | Amount: 40 | Date/Time: 15/08/2023 4:49:22 pm
+Account Number: 1300310820 | Transaction Type: Deposit | Amount: 300 | Date/Time: 16/08/2023 3:46:52 pm
+Account Number: 1300310820 | Transaction Type: Deposit | Amount: 29 | Date/Time: 16/08/2023 3:58:15 pm
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 200 | Date/Time: 16/08/2023 4:05:00 pm
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 400 | Date/Time: 17/08/2023 9:26:49 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 467 | Date/Time: 17/08/2023 9:48:19 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 46 | Date/Time: 17/08/2023 9:49:31 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 29 | Date/Time: 17/08/2023 9:50:03 am
+Account Number: 1300310820 | Transaction Type: Deposit | Amount: 273 | Date/Time: 17/08/2023 9:53:47 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 346 | Date/Time: 17/08/2023 9:54:12 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 64 | Date/Time: 17/08/2023 9:58:44 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 98 | Date/Time: 17/08/2023 10:00:34 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 34 | Date/Time: 17/08/2023 10:00:48 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 43 | Date/Time: 17/08/2023 10:07:32 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 56 | Date/Time: 17/08/2023 10:16:40 am
+Account Number: 1300310820 | Transaction Type: Withdrawal | Amount: 45 | Date/Time: 17/08/2023 10:18:01 am
+Account Number: 1313415973 | Transaction Type: Deposit | Amount: 2000 | Date/Time: 17/08/2023 12:06:05 pm
+Account Number: 1313415973 | Transaction Type: Withdrawal | Amount: 1900 | Date/Time: 17/08/2023 12:06:38 pm
+Account Number: 1313415973 | Transaction Type: Transfer to Account 1625429381 | Amount: 1000000 | Date/Time: 17/08/2023 12:07:22 pm
+Account Number: 1384434411 | Transaction Type: Transfer to Account 1625429381 | Amount: 200 | Date/Time: 17/08/2023 12:20:31 pm

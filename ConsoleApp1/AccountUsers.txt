@@ -1,0 +1,5 @@
+1326535459 | 1234 | 203.33 |     Moses       | Current
+1342905725 | 1233 | 174.34 |     Sara        | Savings
+1212164411 | 1235 | 456.55 |     Idris       | Savings
+1313415973 | 7991 | 1000000 |     Ifeanyi Ikefuna     | Current
+1798367531 | 2965 | 10000 | Emmanuel Peter | Savings
